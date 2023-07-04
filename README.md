@@ -1,12 +1,35 @@
-# Halo semua! 
+Hallo Everyone !!!
+My name is Aulia Azzaskia
 
-Perkenalkan nama saya **Aulia Azzaskia**.
+I'm a third year Informatic engineering at Budi Luhur University, South Jakarta. I am a competitive person and who love new challenge of new things.
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).
+I love learning with other and share my knowledge and experience to them.
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).
+My area of expertise are informatic engineering and digital marketing as i am good to operate HTML/CSS, PHP , Blender, 3D Smax , and any editing app like Photoshop, Corel Draw, Canva , and many more.
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.
+I am also part of certified student independent by Dicoding Indonesia X Kampus Merdeka batch 4 as a full stack developer in 2023.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Experienced :
+1. Desain Grafis - PT. Fatih Advertising
+(Mei 2021-Des 2021)
+2. Content Creator - PT. Aisa Marwa (Feb 2022- Sep 2022)
+3. Content Creator - PT. Khalifahasia (Jan 2022- Feb 2023)
 
+Skills :
+ - Microsoft office
+ - Blender
+ - 3ds Max
+ - Photoshop
+ - Corel Draw
+ - Capcut
+
+Programming Language Used :
+ - Html
+ - CSS
+ - PHP
+ - My Sql
+- JavaScript 
+
+Please reach me through zaskialiaawl26@gmail.com !! .
+
+I would love to connect and share more with you !!.
